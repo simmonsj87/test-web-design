@@ -1,0 +1,30 @@
+body {
+	background-color:rgb(200,200,200);
+	background:<img"/images/sunrise_tahoe.jpg">
+}
+h1 {
+	color:black;
+	text-align:center;
+	border: 1px solid black;
+}
+h2 {
+	color:black;
+	padding:10px;
+}
+p { 
+	color:black;
+}
+div.country{
+	background-color:rgb(152,251,150);
+	color: black;
+	margin: 20px 0 20px 0;
+	padding: 10px;
+}
+table,th,td{
+	border:1px solid black;
+	text-align:center;
+	width:40%;
+	border-collapse:collapse;
+	padding: 10px;
+	background-color:white;
+}
